@@ -2,7 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1D4ED8,70:7C3AED,100:06B6D4&height=220&section=header&text=HASSAN%20ALI%20K.&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Backend%20Development%20%7C%20AI%20%26%20ML&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Animated developer banner"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:020617,50:1D4ED8,100:06B6D4&height=220&section=header&text=HASSAN%20ALI%20K.&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Backend%20Development%20%7C%20AI%20and%20ML&descSize=14&descAlignY=60"
+    width="100%"
+    alt="Hassan Ali K. profile banner"
+  />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+Reliable+Backend+Systems+%F0%9F%9A%80;Engineering+Solutions+Through+Code+%E2%9A%A1;Cloud+%7C+DevOps+%7C+Distributed+Systems+%E2%98%81%EF%B8%8F;Exploring+Data+Science+%26+Machine+Learning+%F0%9F%A4%96" alt="Animated typing introduction"/>
 
@@ -22,24 +28,6 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 👨‍💻 About Me
-
-```java
-public class HassanAliK {
-
-    String profession = "Electrical & Software Engineer";
-    String primaryFocus = "Backend Engineering";
-    String[] languages = {"Java", "C++", "Python", "SQL"};
-    String[] backend = {"Spring Boot", "Drogon"};
-    String[] cloud = {"AWS", "Azure", "Google Cloud"};
-    String interests = "Data Science & Machine Learning";
-
-    void mission() {
-        System.out.println(
-            "Engineering intelligent, scalable and reliable systems."
-        );
-    }
-}
-```
 
 I'm an **Electrical Engineer and Software Engineer** passionate about building robust backend systems, cloud-native applications, and intelligent engineering solutions.
 
