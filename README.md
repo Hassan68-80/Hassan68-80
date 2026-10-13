@@ -260,5 +260,4 @@ I'm interested in collaborating on backend engineering, cloud infrastructure, op
 **⚡ Engineering ideas. Writing code. Building the future.**
 
 <sub>Designed with 💙 by Hassan ALI K.</sub>
-
 </div>
