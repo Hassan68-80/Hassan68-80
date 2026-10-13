@@ -1,14 +1,17 @@
-# ⚡ Hassan ALI K. | Electrical Engineer × Software Engineer
-
+<div align="left">
+  <img
+    src="./linked%20in%20pfp.jpg"
+    width="600"
+    height="600"
+    alt="Hassan Ali K."
+  />
+</div>
+</div>
+</div>
+⚡ Hassan ALI K. | Electrical Engineer × Software Engineer
 <div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:020617,50:1D4ED8,100:06B6D4&height=220&section=header&text=HASSAN%20ALI%20K.&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Backend%20Development%20%7C%20AI%20and%20ML&descSize=14&descAlignY=60"
-    width="100%"
-    alt="Hassan Ali K. profile banner"
-  />
-</p>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+Reliable+Backend+Systems+%F0%9F%9A%80;Engineering+Solutions+Through+Code+%E2%9A%A1;Cloud+%7C+DevOps+%7C+Distributed+Systems+%E2%98%81%EF%B8%8F;Exploring+Data+Science+%26+Machine+Learning+%F0%9F%A4%96" alt="Animated typing introduction"/>
 
@@ -229,8 +232,30 @@ I'm interested in collaborating on backend engineering, cloud infrastructure, op
 </a>
 
 <br/><br/>
+<!-- SOCIAL MEDIA -->
+<h2 align="left">🌐 Connect With Me</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=110&section=footer" width="100%" alt="Decorative footer banner"/>
+<p align="center">
+  <a href="https://www.instagram.com/strum_your_heart/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram"
+         alt="Instagram"
+         width="45"
+         height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@ibn_alikilas" target="_blank">
+    <img src="https://cdn.simpleicons.org/tiktok/white"
+         alt="TikTok"
+         width="45"
+         height="45" />
+  </a>
+</p>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=800&lines=ENGINEERING+%7C+AUTOMATION+%7C+INNOVATION;ELECTRICAL+SYSTEMS+%7C+SOFTWARE+ENGINEERING;BUILDING+INTELLIGENT+SYSTEMS"
+  width="100%"
+  alt="Animated engineering text footer"
+/>
 
 **⚡ Engineering ideas. Writing code. Building the future.**
 
