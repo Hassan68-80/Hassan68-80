@@ -1,8 +1,8 @@
 <div align="left">
   <img
     src="./linked%20in%20pfp.jpg"
-    width="600"
-    height="600"
+    width="800"
+    height="800"
     alt="Hassan Ali K."
   />
 </div>
