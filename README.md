@@ -1,6 +1,6 @@
 <div align="left">
   <img
-    src="./linked%20in%20pfp.jpg"
+    src="./linked in pfp.jpg"
     width="600"
     height="600"
     alt="Hassan Ali K."
